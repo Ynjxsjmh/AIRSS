@@ -7,16 +7,16 @@
 ## 知乎专栏
 接口参考：https://docs.rsshub.app/social-media.html#%E7%9F%A5%E4%B9%8E
 
-| 名称           | 订阅地址                                     | 介绍                                                                         | RSS 订阅源                                          |
-| -----          | -----                                        | ------                                                                       | ---                                                 |
-| 智能单元       | https://zhuanlan.zhihu.com/intelligentunit   | 从拿到 CS231n 授权开始，就一直保持的非常频繁的翻译更新，:thumbsup:           | https://rsshub.app/zhihu/zhuanlan/intelligentunit   |
-| 无痛的机器学习 | https://zhuanlan.zhihu.com/hsmyy             | 把复杂的问题简单化，用简单明了的语言来阐述机器学习                           | https://rsshub.app/zhihu/zhuanlan/hsmyy             |
-| PaperWeekly    | https://zhuanlan.zhihu.com/paperweekly       | 把周报写成了日报的更新频率，分享了一些论文研读                               | https://rsshub.app/zhihu/zhuanlan/paperweekly       |
-| ResysChina     | https://zhuanlan.zhihu.com/resyschina        | 一篇《Quora 是如何做推荐的？》让这个专栏进入更多人的视野，期待更多重量级文章 | https://rsshub.app/zhihu/zhuanlan/resyschina  无    |
-| 人脑与人工智能 | https://zhuanlan.zhihu.com/HicRhodushicsalta | 最近的《人脑认知与计算机算法》系列比较深刻的剖析了人脑与人工智能的联系       | https://rsshub.app/zhihu/zhuanlan/HicRhodushicsalta |
-| 菜鸡的啄米日常 | https://zhuanlan.zhihu.com/chicken-life      | 中文 Keras 翻译负责人，一波 Keras 教程福利                                   | https://rsshub.app/zhihu/zhuanlan/chicken-life   无 |
-| 程序员山居笔记 | https://zhuanlan.zhihu.com/coding-future     | 关于 Prisma 的最新专栏文章很多人赞                                           | https://rsshub.app/zhihu/zhuanlan/coding-future     |
-| 远东轶事       | https://zhuanlan.zhihu.com/yuandong          | 自带光环，卡耐基梅隆大学机器人系博士，Facebook 人工智能组研究员              | https://rsshub.app/zhihu/zhuanlan/yuandong          |
+| 名称           | 订阅地址                                     | 介绍                                                                         | RSS 订阅源                                                                                             |
+| -----          | -----                                        | ------                                                                       | ---                                                                                                    |
+| 智能单元       | https://zhuanlan.zhihu.com/intelligentunit   | 从拿到 CS231n 授权开始，就一直保持的非常频繁的翻译更新，:thumbsup:           | https://rsshub.app/zhihu/zhuanlan/intelligentunit                                                      |
+| 无痛的机器学习 | https://zhuanlan.zhihu.com/hsmyy             | 把复杂的问题简单化，用简单明了的语言来阐述机器学习                           | https://rsshub.app/zhihu/zhuanlan/hsmyy                                                                |
+| PaperWeekly    | https://zhuanlan.zhihu.com/paperweekly       | 把周报写成了日报的更新频率，分享了一些论文研读                               | https://rsshub.app/zhihu/zhuanlan/paperweekly                                                          |
+| ResysChina     | https://zhuanlan.zhihu.com/resyschina        | 一篇《Quora 是如何做推荐的？》让这个专栏进入更多人的视野，期待更多重量级文章 | https://rsshub.app/zhihu/zhuanlan/resyschina  无 \ https://rss.lilydjwg.me/zhihuzhuanlan/resyschina    |
+| 人脑与人工智能 | https://zhuanlan.zhihu.com/HicRhodushicsalta | 最近的《人脑认知与计算机算法》系列比较深刻的剖析了人脑与人工智能的联系       | https://rsshub.app/zhihu/zhuanlan/HicRhodushicsalta                                                    |
+| 菜鸡的啄米日常 | https://zhuanlan.zhihu.com/chicken-life      | 中文 Keras 翻译负责人，一波 Keras 教程福利                                   | https://rsshub.app/zhihu/zhuanlan/chicken-life 无 \ https://rss.lilydjwg.me/zhihuzhuanlan/chicken-life |
+| 程序员山居笔记 | https://zhuanlan.zhihu.com/coding-future     | 关于 Prisma 的最新专栏文章很多人赞                                           | https://rsshub.app/zhihu/zhuanlan/coding-future                                                        |
+| 远东轶事       | https://zhuanlan.zhihu.com/yuandong          | 自带光环，卡耐基梅隆大学机器人系博士，Facebook 人工智能组研究员              | https://rsshub.app/zhihu/zhuanlan/yuandong                                                             |
 
 ## 微信公众号
 接口参考：https://docs.rsshub.app/social-media.html#%E5%BE%AE%E4%BF%A1
@@ -30,7 +30,9 @@
 | 大数据文摘   | 追热点功力强，流行的东西这里都有                                                         | https://rsshub.app/wechat/wasi/5b73e157244d4e491d31f9aa |
 | AlgorithmDog | 这里有细致的算法讲解，受益匪浅                                                           | https://rsshub.app/wechat/wasi/5c533f0c497ff47ac97a8cb7 |
 
-瓦斯的接口好像没输出全文，其它的没试。
+RSSHub 对于瓦斯阅读的接口好像没输出全文，其它的没试。
+
+瓦斯阅读自己也有 RSS 订阅链接，可以不使用 RSSHub 的。
 
 ## 博客
 
@@ -54,4 +56,4 @@
 - [ ] https://blog.csdn.net/ziyubiti/article/details/52691423
 
 # 最后
-欢迎大家贡献更多博客。
+欢迎大家贡献更多博客。对于 RSS 源的发现也可以使用油猴脚本 [RSS+](https://greasyfork.org/zh-CN/scripts/373252-rss-show-site-all-rss) 或者浏览器扩展 [Easy-to-RSS](https://github.com/idealclover/Easy-to-RSS)。个人感觉油猴脚本好用。
