@@ -12,6 +12,8 @@
 
 <!-- markdown-toc end -->
 
+# 说明
+因为瓦斯阅读更改了 RSS 的规则，所以目前微信公众号的订阅地址是不可用的。
 
 # 关于
 本 repo 基于 [机器学习小火车](https://github.com/RickyWong33/Machine_Learning_RSS)，原 repo 主貌似不再维护。又注意到他在 Github 上不是那么活跃，如果 pull request 也不知道什么时候会被合并进主分支，因此有了这个 repo。
