@@ -20,6 +20,14 @@
 
 本 repo 的 RSS 主要利用 [RSSHub](https://github.com/DIYgod/RSSHub) 提供的接口完成，同时也会加上一些我知道关于人工智能领域的优秀博客、专栏和活跃大 V。
 
+有些网站也可以使用 [依云](https://blog.lilydjwg.me/) 提供的服务： https://rss.lilydjwg.me/ ，现在支持的网站有：
+
+- 知乎专栏
+- 知乎动态
+- 知乎话题
+- v2ex 评论
+
+
 # RSS
 ## 知乎专栏
 接口参考：https://docs.rsshub.app/social-media.html#%E7%9F%A5%E4%B9%8E
